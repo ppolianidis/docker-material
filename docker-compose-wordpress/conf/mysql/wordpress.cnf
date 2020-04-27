@@ -1,0 +1,4 @@
+[mysqld]
+explicit_defaults_for_timestamp = 1
+bind-address = 0.0.0.0
+port = 3306
